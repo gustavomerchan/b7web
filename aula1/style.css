@@ -1,0 +1,33 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0px;
+}
+
+.teste{
+    position: absolute;
+    display: block;
+    width: 400px;
+    height: 400px;
+    background-color: black;
+    margin: auto;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+
+
+.teste img{
+    width: inherit;
+    position: absolute;
+    display: block;
+    margin: auto;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+
+}

@@ -1,0 +1,36 @@
+
+
+* {
+    box-sizing: border-box;
+    
+}
+
+body {
+    margin: 50px;
+    font-size: 17p;
+}
+
+p {
+    color: black;
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: justify;
+    word-spacing: 20px;
+    line-height: 50px;
+    text-shadow: 0px 2px 3px black;
+ 
+    
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-style: italic;
+    font-weight: bold;
+}
+
+
+a:hover{
+    color: red;
+    text-decoration: underline;
+}
